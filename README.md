@@ -28,6 +28,12 @@ The project requires the following Python packages:
 
 All dependencies are listed in `requirements.txt`.
 
+<<<<<<< HEAD
+=======
+
+## Note
+
+>>>>>>> 5e1eb6e (Update README)
 This notebook was originally designed for Google Colab. If running locally:
 - Replace Google Colab Drive mount code with local file paths
 - Ensure your dataset is accessible at the specified path
