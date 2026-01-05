@@ -1,5 +1,7 @@
 # Early_Sepsis_Prediction
-
+```bash
+Live App: https://yashjoshi2109-early-sepsis-prediction-app-uhdnqo.streamlit.app/
+```
 ## Installation
 
 To install all required dependencies, run:
